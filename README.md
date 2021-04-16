@@ -8,4 +8,4 @@ A simple Tic-Toc-Toe Multiplayer Game Developed using OpenGL.
 * string.h
 # Setup-OpenGL
 Go through the following vedio to install OpenGL in VS CODE
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Click here](https://www.youtube.com/watch?v=j9HjjB-sJL0)
