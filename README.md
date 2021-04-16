@@ -6,5 +6,8 @@ A simple Tic-Toc-Toe Multiplayer Game Developed using OpenGL.
 * time.h
 * math.h
 * string.h
+# Extensions
+* Code Runner
+* c/c++ Extension
 # Setup-OpenGL
 To Run this code , you need OpenGL. So, [Click here](https://www.youtube.com/watch?v=j9HjjB-sJL0) to install OpenGL in VS CODE
